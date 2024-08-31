@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsan Saif</h1>
 <h3 align="center">Still learning</h3>
 
-- 💬 Ask me about C++, Java, Python, Html, Css, React
+- 💬 Ask me about C++, Java script, Html, Css, React
 
 - 📫 How to reach me *ihsansaifedwardion@gmail.com*
 
