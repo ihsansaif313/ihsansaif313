@@ -20,9 +20,18 @@
     </a>
   
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsansaif313&show_icons=true&locale=en&layout=compact" alt="ihsansaif313" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsansaif313&" alt="ihsansaif313" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsansaif313&show_icons=true&locale=en" alt="ihsansaif313" /></p>
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsansaif313" alt="ihsansaif313" /></a> </p>
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ihsansaif313&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ihsansaif313&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsansaif313&layout=compact" />
+</div>
 
