@@ -38,11 +38,9 @@
 
 <!-- Snake Game Contribution Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihsansaif313/ihsansaif313/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihsansaif313/ihsansaif313/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ihsansaif313/ihsansaif313/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ihsansaif313/ihsansaif313/output/github-contribution-grid-snake.svg" 
+       alt="Contribution Snake"
+       style="width: 100%; max-width: 800px">
 </div>
 
 ---
