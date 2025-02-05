@@ -8,9 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake Graphic
         uses: Platane/snk@v3
         with:
           github_user_name: ihsansaif313
@@ -23,4 +24,6 @@ jobs:
         with:
           branch: output
           folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
+          clean: true
+          clean-exclude: |
+            *.svg
