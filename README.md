@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 <!-- Skill Icons Grid with Categories -->
 <p align="center">
-  <strong>Languages:</strong><br>
+  <strong>Languages:</strong><br><br>
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="Languages">
   
   <strong>Frameworks:</strong><br>
