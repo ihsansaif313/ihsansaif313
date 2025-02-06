@@ -9,6 +9,10 @@
 </p>
 
 ---
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihsansaif313&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 ### 🛠️ Tech Stack & Tools
 <!-- Skill Icons Grid with Categories -->
@@ -24,6 +28,7 @@
 </p>
 
 ---
+
 
 ### 📈 GitHub Analytics
 <!-- Enhanced Stats Cards Layout -->
@@ -70,10 +75,7 @@
   </a>
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsansaif313&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
+
 
 <!-- Dynamic Quote Footer -->
 <div align="center">
