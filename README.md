@@ -104,7 +104,7 @@ gantt
 </p>
 <div align="center">
   <a href="https://github.com/ihsansaif313" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Code-25+_Repos-black?style=flat&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/Explore_Code-30+_Repos-black?style=flat&logo=github" alt="GitHub">
   </a>
   
   <a href="https://linkedin.com/in/its-saif-products" target="_blank">
