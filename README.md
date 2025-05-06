@@ -64,7 +64,7 @@ gantt
     
     section Career
     Computer Teacher :done, 2022-08, 2023-03
-    Founded Saif Softy Tech :active, 2023-04, 2025-12
+    Founded Saif Softy Tech :active, 2024-04, 2025-12
     Frontend Developer at MIK :active, 2025-04, 2027-12
 ```
 
