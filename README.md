@@ -2,10 +2,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Ihsan%20Saif&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Welcome Banner"/>
 </div>
-## 🔬 **Real coding happens in private repositories.**
+
+
 <!-- Typing Animation Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=44F748&center=true&vCenter=true&width=500&lines=Artificial+Intellegence+Engineer;Frontend+Devolepor;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing Animation" />
+</p>
+
+---
+<p align="center">
+  <strong><span style="color: red; font-size: 20px;">NOTE: 🔒Real coding happens in private repositories🔒</span></strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Real_Coding-Private_Repositories-red?style=for-the-badge&logo=github" alt="Real coding happens in private repositories">
 </p>
 
 ---
